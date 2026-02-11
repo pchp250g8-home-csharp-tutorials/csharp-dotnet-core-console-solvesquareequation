@@ -17,7 +17,7 @@ if(a == 0)
     }
     else
     {
-        Console.WriteLine("The equation has the following solution:{0}", -c / b);
+        Console.WriteLine("The equation has the following root:{0}", -c / b);
     }
 }
 else
